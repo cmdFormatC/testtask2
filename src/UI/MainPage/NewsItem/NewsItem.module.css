@@ -1,9 +1,7 @@
 .item_first {
     grid-row: 1/3;
 }
-.item {
 
-}
 .item__image {
     width: 312px;
     height: 189px;
